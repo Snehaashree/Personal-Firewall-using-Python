@@ -8,12 +8,12 @@
 - Real-time packet inspection using Scapy
 - Logs suspicious packets to `firewall.log`
 
-## 🛠 Tools Used
+## Tools Used
 - Python 3
 - Scapy
 - Parrot OS + Kali Linux (lab setup)
 
 
-## 📂 Run It (CLI)
+## Run It (CLI)
 ```bash
 sudo python3 firewall_cli.py
